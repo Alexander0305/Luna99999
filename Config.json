@@ -1,0 +1,13 @@
+{
+    "language": "en",
+    "time_zone": "UTC",
+    "notification_preferences": {
+        "email": true,
+        "alarm": true
+    },
+    "default_modules": [
+        "weather",
+        "email",
+        "alarm"
+    ]
+}
